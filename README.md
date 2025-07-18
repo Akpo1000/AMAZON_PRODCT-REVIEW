@@ -19,3 +19,22 @@ Load data to Excel query editor
 
 ## Calculated Columns
 Created four new columns to enhance analysis:
+ 1. Price Bucket
+    Categorized proucts into price range (e.g $200 - 500, > $500) based on discounted price.
+ 2. Potentail Revenue 
+    Estimated revenue using the formula (Potential Revenue = Discounted price * rating count)
+## Analysis Tasks
+Analysis Tasks
+The project involves various analysis tasks, including;
+
+- Average discount percentage by product category
+- Product count by category
+- Total reviews per category
+- Products with highest number of reviews
+- Distribution of product ratings
+- Potential revenue by category
+- Unique products per price range bucket
+- Relationship between rating and discount level
+- Products with fewer than 1,000 reviews
+- Categories with highest discounts
+- Top 5 products in terms of rating and number of reviewed combined
