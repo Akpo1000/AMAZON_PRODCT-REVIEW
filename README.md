@@ -38,3 +38,8 @@ The project involves various analysis tasks, including;
 - Products with fewer than 1,000 reviews
 - Categories with highest discounts
 - Top 5 products in terms of rating and number of reviewed combined
+
+## Recommendaions
+Confirm that the electronical category consistently generate high margins and revenue, followed by the Computer & Assessories, Home & Kitchen and Offices products. 
+
+Customer behaviour insisght: Understand that the electronical category has high discount and reviews.
